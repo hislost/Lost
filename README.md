@@ -1,9 +1,9 @@
 #                                                   Lost ❔
 # 💻 Welcome to the lost programming language 🚀
 ## Introduction 📖
-Lost is a programming language I created for the thrill of it! The language is inspired by Lua, Python, Pascal, and Java. I took what I liked from those languages and implemented it in Lost. Like any other language, Lost is inspired by English and is made and run using Python.
+Lost is a dynamic and versatile programming language designed with simplicity and creativity in mind. It's perfect for those who love to learn and explore the world of coding. The language is inspired by Lua, Python, Pascal, and Java. I took what I liked from those languages and implemented it in Lost. Like any other language, Lost is inspired by English and it is also made and run using Python.
 ## History 📜
-Lost was created with simplicity in mind, and the main idea was to write programs with a small amount of code. The idea came to me two years ago when I wanted to create a programming language that makes GUI creation easier. I hated that you had to write a lot of code just to make a simple window, so I thought of creating a language that requires only a few lines to create something. I haven't implemented the gui library yet and I will do that when fully done with the programming language
+Lost was created with simplicity in mind, and the main idea was to write programs with a small amount of code. The idea came to me two years ago when I wanted to create a programming language that makes GUI creation easier. I hated that you had to write a lot of code just to make a simple window, so I thought of creating a language that requires only a few lines to create something. Currently I'm planning to make
 
 The naming of the language was fairly easy since I loved how "Lost" makes the language sound mysterious and cool. Additionally, I go by the name Lost in many other places, so I wanted the language to inherit the name.
 

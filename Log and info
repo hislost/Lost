@@ -1,0 +1,15 @@
+Lost will soon be released. The main language is complete, and all that is left is to polish it a bit and add classes and GUI-making libraries. Lost was made to create GUIs and applications, so that's its main focus for now.
+
+I can't promise anything, but if everything goes as it should, then Lost's first version should be out in August or September.
+
+Current Progress:
+
+Main language: 78% done
+Libraries: 1% done
+Extra Information About Lost:
+
+Speed: Lost is currently very slow, but I'm working on making it much faster.
+Compiler or Interpreter: Lost was made as an interpreter to speed up development time, but the idea of making it a compiler is still being considered.
+Recommendation: I wouldn't really recommend Lost for professional use, as it's still not mature enough, but it could be suitable for hobbyists and competitive coding.
+
+Other Projects: I'm currently working on a game engine for fun!
